@@ -1,0 +1,5 @@
+<resources>
+    <string name="database">lorempicsum.db</string>
+
+    <string name="app_name">MVVM Starter</string>
+</resources>
